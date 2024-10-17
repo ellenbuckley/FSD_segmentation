@@ -7,6 +7,5 @@ Files include:
 - input
   - cloud - files for cloud mask
   - tci - images for analysis
-  - fci
 - output
   - sample output
