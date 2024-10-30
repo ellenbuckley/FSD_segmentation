@@ -5,7 +5,7 @@ Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M.: Seasonal
 
 The floe size distribution used in the paper generated from this segmentation algorithm can be found here: https://doi.org/10.5281/zenodo.11553699
 
-Files include:
+The files in this repository include:
 - Segmentation_EB.ipynb - example notebook with commented seg algorithm code
 - modis_download_short.ipynb -  example notebook showing how to quickly download modis data for the inputs to the segmentation algo
 - input
