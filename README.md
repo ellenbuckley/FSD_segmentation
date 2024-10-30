@@ -1,5 +1,8 @@
 # Segmentation_EB
 new segmentation routine used for FSD and accurate floe characteristics (Buckley et al., 2024)
+Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M.: Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-89, 2024.
+
+The floe size distribution used in the paper generated from this segmentation algorithm can be found here: https://doi.org/10.5281/zenodo.11553699
 
 Files include:
 - Segmentation_EB.ipynb - example notebook with commented seg algorithm code
